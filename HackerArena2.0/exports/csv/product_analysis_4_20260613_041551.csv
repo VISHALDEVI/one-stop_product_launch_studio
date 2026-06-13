@@ -1,0 +1,84 @@
+﻿Section,Field,Value
+Vision Analysis,Product Name,Shoes
+Vision Analysis,Category,Footwear
+Vision Analysis,Type,Casual / Sports Shoes
+Vision Analysis,Brand,StepUp
+Vision Analysis,Material,Mesh + Rubber Sole
+Vision Analysis,Primary Color,White
+Vision Analysis,Secondary Colors,"Blue, Grey"
+Vision Analysis,Dimensions,"{'length': '30 cm', 'width': '12 cm', 'height': '10 cm'}"
+Vision Analysis,Weight,"{'value': 600, 'unit': 'grams'}"
+Vision Analysis,Key Features,Breathable mesh upper | Anti-slip rubber sole | Cushioned insole for comfort | Lightweight design | Available in multiple sizes
+Vision Analysis,Confidence Score,0.91
+Listing,SEO Title,Shoes – Casual / Sports Shoes | White | StepUp | Best Quality
+Listing,Description,"Introducing the Shoes by StepUp — crafted from Mesh + Rubber Sole for premium quality and lasting durability. This casual / sports shoes is designed for everyday use, combining style and functionality seamlessly. Featuring breathable mesh upper, anti-slip rubber sole, and cushioned insole for comfort, it stands out in the footwear category. Available in White with Blue and Grey accents. Lightweight, compact, and built to last — perfect for daily use, gifting, or personal upgrade. Backed by StepUp's quality promise and 1-year warranty. Order now and experience the difference."
+Listing,Bullet Points,✅ Made from Mesh + Rubber Sole for premium durability | ✅ Breathable mesh upper | ✅ Anti-slip rubber sole | ✅ Cushioned insole for comfort | ✅ Backed by 1-year warranty from StepUp
+Listing,SEO Keywords,"buy Shoes, Shoes online, best casual / sports shoes, StepUp shoes, White shoes, premium footwear, shoes under ₹999, top rated shoes, mesh + rubber sole shoes, shoes India"
+Listing,Marketplace Category,Footwear > Casual Shoes
+Listing,Search Tags,"shoes, footwear, casual, sports, comfortable, lightweight, running, daily wear, men shoes, women shoes"
+Packaging,Type,Rigid Shoe Box with Tissue Wrap
+Packaging,Box Size,"{'length': '35 cm', 'width': '18 cm', 'height': '14 cm'}"
+Packaging,Protective Materials,Tissue paper wrapping | Silica gel sachet | Cardboard divider
+Packaging,Shipping Recommendations,"{'carrier': 'BlueDart / Delhivery / Shiprocket', 'mode': 'Surface for domestic, Air for international', 'fragile_label': True, 'estimated_shipping_weight': '800 grams (with packaging)'}"
+Compliance,BIS Requirement,"{'required': False, 'certificate': 'N/A', 'notes': 'Not mandatory for footwear'}"
+Compliance,FSSAI Requirement,"{'required': False, 'notes': 'Not applicable for non-food products'}"
+Compliance,Barcode Requirement,"{'required': True, 'type': 'EAN-13 or UPC-A', 'notes': 'Register with GS1 India for a genuine barcode'}"
+Compliance,MRP Label,"{'required': True, 'fields': ['MRP (incl. all taxes)', 'Manufacturer name & address', 'Country of origin', 'Customer care number', 'Month & Year of manufacture']}"
+Compliance,Product Label Info,"{'generic_name': 'Shoes', 'net_quantity': '1 Unit', 'country_of_origin': 'India', 'customer_care': '1800-XXX-XXXX'}"
+Pricing,Low Price,"{'amount': 499, 'currency': 'INR', 'label': 'Budget / Entry'}"
+Pricing,Recommended Price,"{'amount': 999, 'currency': 'INR', 'label': 'Optimal Margin'}"
+Pricing,Premium Price,"{'amount': 1799, 'currency': 'INR', 'label': 'Premium / Brand'}"
+Pricing,Pricing Analysis,"{'cost_of_goods': '~₹350', 'recommended_margin': '~65%', 'break_even_units': 50, 'notes': 'Recommended price offers best conversion vs. margin balance on Amazon & Flipkart for Footwear'}"
+Competitor Analysis,Avg Market Price,₹799 – ₹1499
+Competitor Analysis,Competitor Count,120+ active listings
+Competitor Analysis,Suggested Improvements,Add extra lace pair as bundle | Include size guide chart | Use lifestyle/action photography | Offer wider size range
+Competitor Analysis,Market Position,Value segment with strong potential in sports/casual category
+Marketing,Instagram Post,"✨ Meet your new favourite! 🔥
+
+Introducing the Shoes — breathable mesh upper & anti-slip rubber sole. 💯
+
+Available now on Amazon & Flipkart!
+
+#NewLaunch #Shoes #StepUp #MustHave #ShopNow #IndianBrand"
+Marketing,Facebook Post,"🎉 Exciting Launch Alert!
+
+We're proud to introduce the Shoes — Casual / Sports Shoes built for quality and comfort.
+
+🔑 Key Highlights:
+• Breathable mesh upper
+• Anti-slip rubber sole
+• Cushioned insole for comfort
+
+🛒 Shop now on Amazon & Flipkart
+📦 Fast delivery across India
+💯 1-Year Warranty
+
+Tag someone who needs this! 👇"
+Marketing,WhatsApp Promotion,"🛍️ *New Launch Alert!*
+
+*Shoes* is now LIVE!
+
+✅ Breathable mesh upper
+✅ Anti-slip rubber sole
+✅ Best Price: ₹999
+
+👉 Use code *LAUNCH10* for 10% OFF
+_Limited stock — Order now!_ 🔥"
+Marketing,Email Campaign,"Subject: 🚀 Just Launched: Shoes — Exclusive Offer Inside!
+
+Hi [Customer Name],
+
+We're excited to introduce the Shoes — our latest casual / sports shoes from StepUp.
+
+Here's why you'll love it:
+• Breathable mesh upper
+• Anti-slip rubber sole
+• Cushioned insole for comfort
+
+🎁 Exclusive launch offer: 15% OFF with code VIPEARLY15
+⏰ Offer valid for 48 hours only.
+
+👉 [Shop Now]
+
+Warm regards,
+The StepUp Team"

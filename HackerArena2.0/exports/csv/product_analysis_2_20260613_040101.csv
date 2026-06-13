@@ -1,0 +1,82 @@
+﻿Section,Field,Value
+Vision Analysis,Product Name,Images Premium Edition
+Vision Analysis,Category,Consumer Electronics
+Vision Analysis,Type,Gadget / Accessory
+Vision Analysis,Brand,BrandX
+Vision Analysis,Material,ABS Plastic + Aluminium Alloy
+Vision Analysis,Primary Color,Matte Black
+Vision Analysis,Secondary Colors,"Silver, Dark Grey"
+Vision Analysis,Dimensions,"{'length': '15 cm', 'width': '8 cm', 'height': '3 cm'}"
+Vision Analysis,Weight,"{'value': 250, 'unit': 'grams'}"
+Vision Analysis,Key Features,Lightweight and durable build | Ergonomic design for comfortable use | Universal compatibility | Long-lasting battery life | Scratch-resistant surface
+Vision Analysis,Confidence Score,0.91
+Listing,SEO Title,Images – Premium Quality | Best for Daily Use | BrandX Official
+Listing,Description,"Introducing the Images by BrandX — crafted with precision engineering and premium materials for unmatched performance. Whether you are a professional or a daily user, this product delivers reliability, style, and functionality in one compact package. Designed with an ergonomic form factor, it fits perfectly in your hand while delivering maximum output. The matte black finish with silver accents gives it a sleek, modern aesthetic suitable for any environment. Compatible with all major platforms and devices, it is the ultimate upgrade for your workflow. Backed by a 1-year warranty and 24/7 customer support."
+Listing,Bullet Points,✅ Premium ABS + Aluminium build for long-lasting durability | ✅ Ergonomic design reduces fatigue during extended use | ✅ Universal compatibility with all major devices | ✅ Compact & lightweight — perfect for travel and daily use | ✅ Backed by 1-year manufacturer warranty
+Listing,SEO Keywords,"Images online, buy Images, best quality gadget, premium electronics, BrandX official, Images price, top rated product, affordable gadget, Images review, best buy electronics"
+Listing,Marketplace Category,Electronics > Accessories > Gadgets
+Listing,Search Tags,"electronics, gadget, premium, BrandX, daily use, compact, lightweight, universal, modern, durable"
+Packaging,Type,Rigid Corrugated Box with Inner Foam Tray
+Packaging,Box Size,"{'length': '20 cm', 'width': '13 cm', 'height': '8 cm'}"
+Packaging,Protective Materials,Bubble wrap liner | Foam corner inserts | Anti-static poly bag | Silica gel sachet
+Packaging,Shipping Recommendations,"{'carrier': 'BlueDart / Delhivery', 'mode': 'Surface for domestic, Air for international', 'fragile_label': True, 'estimated_shipping_weight': '400 grams (with packaging)'}"
+Compliance,BIS Requirement,"{'required': True, 'certificate': 'IS 13252 / BIS CRS', 'notes': 'Mandatory for electronic products sold in India'}"
+Compliance,FSSAI Requirement,"{'required': False, 'notes': 'Not applicable for non-food/non-cosmetic products'}"
+Compliance,Barcode Requirement,"{'required': True, 'type': 'EAN-13 or UPC-A', 'notes': 'Register with GS1 India for genuine barcode'}"
+Compliance,MRP Label,"{'required': True, 'fields': ['MRP (incl. all taxes)', 'Manufacturer name & address', 'Country of origin', 'Customer care number', 'Month & Year of manufacture']}"
+Compliance,Product Label Info,"{'generic_name': 'Images', 'net_quantity': '1 Unit', 'country_of_origin': 'India', 'customer_care': '1800-XXX-XXXX'}"
+Pricing,Low Price,"{'amount': 499, 'currency': 'INR', 'label': 'Budget / Entry'}"
+Pricing,Recommended Price,"{'amount': 799, 'currency': 'INR', 'label': 'Optimal Margin'}"
+Pricing,Premium Price,"{'amount': 1199, 'currency': 'INR', 'label': 'Premium / Brand'}"
+Pricing,Pricing Analysis,"{'cost_of_goods': '~₹300', 'recommended_margin': '~62%', 'break_even_units': 50, 'notes': 'Recommended price offers best conversion vs. margin balance on Amazon & Flipkart'}"
+Competitor Analysis,Avg Market Price,₹650 – ₹950
+Competitor Analysis,Competitor Count,48 active listings
+Competitor Analysis,Suggested Improvements,Add combo/bundle packaging to increase AOV | Include a carrying pouch to differentiate | Offer 2-year warranty vs competitor 1-year | Use lifestyle imagery in listings to improve CTR
+Competitor Analysis,Market Position,Mid-range with strong potential to capture premium segment
+Marketing,Instagram Post,"✨ Elevate your everyday! 🚀
+
+Introducing the all-new Images — sleek, smart, and built for you. 💼
+
+🔥 Limited launch offer — Don't miss out!
+
+#NewLaunch #MustHave #BrandX #TechLife #ProductLaunch"
+Marketing,Facebook Post,"🎉 Big Launch Alert!
+
+We're thrilled to introduce the Images — designed for performance, built for durability, and priced for everyone.
+
+🛒 Shop now via the link below
+📦 Fast shipping across India
+💯 1-Year Warranty included
+
+Tag a friend who needs this! 👇"
+Marketing,WhatsApp Promotion,"🛍️ *Exciting Product Alert!*
+
+*Images* is now LIVE on Amazon & Flipkart!
+
+✅ Premium Quality
+✅ Best Price Guaranteed
+✅ Free Delivery Available
+
+👉 Order now & get *10% OFF* on your first purchase!
+Use code: *LAUNCH10*
+
+_Limited stock. Grab yours today!_ 🔥"
+Marketing,Email Campaign,"Subject: 🚀 Just Launched: Images — Exclusive Offer Inside!
+
+Hi [Customer Name],
+
+We're excited to introduce you to the Images, our latest addition to the BrandX family.
+
+Here's why you'll love it:
+• Premium build quality that lasts
+• Universal compatibility
+• Compact design for everyday use
+
+🎁 As a valued customer, enjoy 15% OFF with code: VIPEARLY15
+
+👉 [Shop Now Button]
+
+This offer expires in 48 hours. Don't wait!
+
+Warm regards,
+The BrandX Team"
